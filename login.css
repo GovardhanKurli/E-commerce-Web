@@ -266,6 +266,7 @@ ul{
     padding: 5px;
     overflow: hidden;
 }
+    /* button-box */
 .button-box{
     width: 220px;
     margin: 35px auto;
@@ -273,6 +274,8 @@ ul{
     box-shadow: 0 0 20px 9px #ff61241f;
     border-radius: 30px;
 }
+
+/* ---toggle-btn----*/
 .toggle-btn{
     padding: 10px 30px;
     cursor: pointer;
@@ -281,6 +284,7 @@ ul{
     outline: none;
     position: relative;
 }
+/* btn  */
 #btn{
     top: 0;
     left: 0;
